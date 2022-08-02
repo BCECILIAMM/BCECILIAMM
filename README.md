@@ -1,6 +1,7 @@
 ### console.log("Welcome to my profile!"); 👋 ^.^
 
 <!--<img width="1000" atl="Captura de pantalla" src="https://filtermexico.com/wp-content/uploads/2016/02/tumblr_m7mtxslHFx1rbgzizo1_500.gif">-->
+<img width="500" atl="Captura de pantalla" style="text-align:center;" src="https://c.tenor.com/aM_jvlV8LogAAAAd/idk-wallpaper.gif" >
 
 👋Hi, I'm Ceci 🤭 I love to be constantly learning new things, both in my career and for my hobbies. 
 ✳️ I am an IT Engineer specialized in web development I focus on MEAN STACK technology With two years of experience. 👩💻 
