@@ -4,7 +4,7 @@
 console.log("Welcome to my profile! 👩‍💻");
 ```
 
-### Software Engineer | Full-Stack Developer | Building real-world products 🚀
+### Software Engineer | Full-Stack Developer | Building real-world solutions 🚀
 
 I'm an **IT Engineer and Software Developer from Mexico** passionate about creating useful, scalable, and user-focused software.
 
@@ -18,7 +18,7 @@ I strongly believe that the best way to grow as a developer is to **keep learnin
 
 - 💼 I'm currently working at **INEGI**, developing enterprise applications and internal systems.
 - ☕ I work with technologies such as **Java, Oracle, PL/SQL, JavaScript, TypeScript and Vue.js**.
-- 🚀 I'm currently building **ActiVida**, a real-world software platform for a running coaching business.
+- 🚀 I designed and developed part of the **software infrastructure for ActiVida**, a real running coaching business.
 - 🐍 I'm improving my knowledge of **Python** and backend development.
 - 🧠 I'm studying **Software Engineering, System Design, Software Architecture and Artificial Intelligence**.
 - 🌐 I'm interested in developing complete applications from **frontend to backend, database and deployment**.
@@ -28,58 +28,65 @@ I strongly believe that the best way to grow as a developer is to **keep learnin
 
 ---
 
-# 🚀 What I'm Currently Building
+# 🚀 Real-World Project
 
-## 🏃‍♀️ ActiVida
+## 🏃‍♀️ ActiVida — Software Infrastructure
 
-**ActiVida** is a real-world software project I'm developing for a running coaching business.
+**ActiVida** is a running coaching business for which I have designed and developed software solutions to help digitalize some of its operational processes.
 
-The project was born from a real problem: much of the management of athletes, challenges, routines and information was previously handled manually through tools such as **WhatsApp and Google Drive**.
+Before the implementation of the system, different activities such as challenges, athlete information, routines and progress tracking were managed manually through tools such as **WhatsApp and Google Drive**.
 
-The goal is to transform those processes into a centralized digital platform.
+My role has been focused on understanding those real business needs and transforming them into functional software solutions.
 
-### ✨ Main Features
+### ✨ Features I've Worked On
 
-- 🏅 Running challenges
-- 🥇 Achievement badges
+- 🏅 Running challenge system
+- 🥇 Achievement badges and progression levels
 - 📊 Athlete progress tracking
 - 🏃 Workout and activity management
 - 📝 Surveys and athlete feedback
-- 📈 Statistics and performance visualization
-- 👩‍🏫 Administration tools for coaches
+- 📈 Statistics and progress visualization
+- 👩‍🏫 Administration tools for the coach
 - 👥 Athlete management
-- 🌐 Web platform for athletes
-- 📱 Management tools for coaches
+- 🌐 Web experience for athletes
+- 📱 Management tools for coaching operations
 
-### 🧠 What I'm practicing with this project
+### 🧠 My Role
 
-ActiVida allows me to work on the complete software development lifecycle:
+My contribution to ActiVida is focused on the **technical design and development of its software infrastructure**.
+
+This has involved working through different stages of software development:
 
 ```text
-Problem
-   ↓
-Requirements
-   ↓
-System Design
-   ↓
-UI / UX
-   ↓
-Frontend
-   ↓
-Backend
-   ↓
-APIs
-   ↓
-Database
-   ↓
+Business Need
+     ↓
+Requirements Analysis
+     ↓
+Solution Design
+     ↓
+Data Modeling
+     ↓
+Frontend Development
+     ↓
+Backend / Business Logic
+     ↓
 Testing
-   ↓
+     ↓
 Deployment
-   ↓
-Maintenance
+     ↓
+Maintenance & Improvements
 ```
 
-My goal with this project is not only to build an application, but to learn how to think and work like a **Software Engineer**.
+Working on ActiVida has allowed me to practice Software Engineering in a real environment with:
+
+- Real users
+- Real requirements
+- Real business rules
+- Changing needs
+- Technical decisions
+- Continuous improvements
+
+Rather than being the owner of ActiVida, my contribution is focused on **building the technology that supports and improves its operations**.
 
 ---
 
@@ -192,7 +199,7 @@ I'm currently focusing on going beyond frameworks and programming languages.
 
 My goal is to understand how to **design, build, test, deploy and maintain software end-to-end**.
 
-### Areas I'm currently improving
+### Areas I'm Currently Improving
 
 ```text
 Software Engineering
@@ -249,7 +256,7 @@ My goal is not only to use AI tools, but to understand how to combine them with 
 
 My goal is to become a **Software Engineer capable of building complete software systems from end to end**.
 
-I want to be able to understand the complete journey of an application:
+I want to understand the complete journey of an application:
 
 ```text
 Idea
@@ -324,7 +331,7 @@ Fix them
 Build again
 ```
 
-That's why I enjoy creating projects that solve real problems instead of only completing tutorials.
+That's why I enjoy working on software that solves **real problems instead of only completing tutorials**.
 
 ---
 
@@ -356,8 +363,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCECILIAMM&l
 />
 
 </p>
-
-> ⚠️ Replace `BCECILIAMM` with your GitHub username.
 
 ---
 
@@ -409,7 +414,7 @@ When I'm not coding...
 const ceci = {
   name: "Ceci",
 
-  role: "Software Engineer",
+  role: "Software Developer",
 
   location: "Mexico 🇲🇽",
 
@@ -444,7 +449,10 @@ const ceci = {
     ]
   },
 
-  currentProject: "ActiVida 🏃‍♀️",
+  realWorldProject: {
+    name: "ActiVida 🏃‍♀️",
+    contribution: "Software Infrastructure & Development"
+  },
 
   interests: [
     "Software",
